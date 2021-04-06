@@ -1,5 +1,5 @@
 # resume
-#rajesh thimmidi
+#Rajesh thimmidi
 #### personal information
 - Father name:panakalarao 
 - email id:timmidirajesh@gmail.com
@@ -7,7 +7,7 @@
 - address: guntur
 ## educational details
 **btech_cse**
-- rvr&jcce
-- an university,guntur
-- andhra pradesh,india
+- RVR&JCCE
+- AN university,guntur
+- Andhra pradesh,India
  
